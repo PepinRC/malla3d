@@ -1,0 +1,3547 @@
+{
+ "entrada": "datos/lowpoly/a8bc0f28/cuerpo.obj",
+ "caras": 14752,
+ "componentes": 100,
+ "resumen": {
+  "rueda": {
+   "piezas": 22,
+   "caras": 4031,
+   "usar": 0
+  },
+  "panel": {
+   "piezas": 64,
+   "caras": 6112,
+   "usar": 40
+  },
+  "tubo": {
+   "piezas": 10,
+   "caras": 4601,
+   "usar": 5
+  },
+  "astilla": {
+   "piezas": 4,
+   "caras": 8,
+   "usar": 0
+  }
+ },
+ "piezas": [
+  {
+   "k": 47,
+   "caras": 27,
+   "triangulos": 15,
+   "pct_tri": 55.6,
+   "area_mm2": 79.2,
+   "centro": [
+    43.95,
+    -189.88,
+    67.19
+   ],
+   "min": [
+    41.2,
+    -193.07,
+    64.81
+   ],
+   "max": [
+    46.53,
+    -187.24,
+    70.38
+   ],
+   "ejes_pca": [
+    1.9,
+    1.79,
+    1.62
+   ],
+   "aristas_borde": 9,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s000",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "c0bee0146966ad7d15b2343a4dbf2e629977018be8108d8a0600ed5376d6307a"
+  },
+  {
+   "k": 86,
+   "caras": 4,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 308.1,
+   "centro": [
+    -21.8,
+    -182.25,
+    54.88
+   ],
+   "min": [
+    -30.81,
+    -185.35,
+    52.1
+   ],
+   "max": [
+    -12.8,
+    -178.72,
+    58.47
+   ],
+   "ejes_pca": [
+    9.49,
+    3.16,
+    2.79
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s001",
+   "usar": false,
+   "espejo_de": "s002",
+   "dist_espejo_mm": 0.33,
+   "sha256": "015d024fe1fdca7bd28b1c99458e3453198a1c78efb3ca69a51ab054cdbab016"
+  },
+  {
+   "k": 91,
+   "caras": 4,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 303.8,
+   "centro": [
+    21.92,
+    -182.21,
+    54.61
+   ],
+   "min": [
+    13.05,
+    -185.31,
+    51.82
+   ],
+   "max": [
+    30.8,
+    -178.69,
+    58.2
+   ],
+   "ejes_pca": [
+    9.35,
+    3.16,
+    2.79
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s002",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.33,
+   "sha256": "4d0ab255fa28ba6b029715bf2edda5be472ec52f496efb324aee8406d50876a2"
+  },
+  {
+   "k": 7,
+   "caras": 65,
+   "triangulos": 21,
+   "pct_tri": 32.3,
+   "area_mm2": 862.9,
+   "centro": [
+    -61.73,
+    -181.5,
+    62.1
+   ],
+   "min": [
+    -90.88,
+    -193.15,
+    51.61
+   ],
+   "max": [
+    -39.41,
+    -151.95,
+    70.93
+   ],
+   "ejes_pca": [
+    25.57,
+    6.59,
+    1.47
+   ],
+   "aristas_borde": 21,
+   "aristas_no_manifold": 1,
+   "clase": "panel",
+   "id": "s003",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "80a1e1672976bf7a8b4bbc9f8925a4b2a709ade7301055dd2f146e51d33fa2a3"
+  },
+  {
+   "k": 85,
+   "caras": 9,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 246.1,
+   "centro": [
+    -31.69,
+    -181.4,
+    54.51
+   ],
+   "min": [
+    -35.11,
+    -186.12,
+    51.08
+   ],
+   "max": [
+    -26.24,
+    -176.73,
+    59.24
+   ],
+   "ejes_pca": [
+    4.45,
+    3.23,
+    2.91
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s004",
+   "usar": false,
+   "espejo_de": "s005",
+   "dist_espejo_mm": 0.372,
+   "sha256": "008a0f995b51f659f4d4a2b0f32f8bc987c911bc5e0362bdacfcf03478b22be5"
+  },
+  {
+   "k": 92,
+   "caras": 9,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 250.0,
+   "centro": [
+    31.85,
+    -181.34,
+    54.2
+   ],
+   "min": [
+    26.23,
+    -186.07,
+    50.79
+   ],
+   "max": [
+    35.36,
+    -176.67,
+    58.96
+   ],
+   "ejes_pca": [
+    4.45,
+    3.27,
+    2.94
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s005",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.372,
+   "sha256": "0c7debb779ebb4e8b20251e0822d3062f1706d920826d88f5c8524c29a549649"
+  },
+  {
+   "k": 13,
+   "caras": 21,
+   "triangulos": 11,
+   "pct_tri": 52.4,
+   "area_mm2": 58.7,
+   "centro": [
+    -39.16,
+    -181.06,
+    59.45
+   ],
+   "min": [
+    -41.45,
+    -183.56,
+    57.19
+   ],
+   "max": [
+    -37.13,
+    -178.74,
+    61.51
+   ],
+   "ejes_pca": [
+    1.72,
+    1.6,
+    1.41
+   ],
+   "aristas_borde": 9,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s006",
+   "usar": false,
+   "espejo_de": "s007",
+   "dist_espejo_mm": 0.439,
+   "sha256": "1c142a8c44b1c3ed04610baee2fe753a9d8e5c1dc6a044d76c99e26b9bf19c71"
+  },
+  {
+   "k": 51,
+   "caras": 21,
+   "triangulos": 11,
+   "pct_tri": 52.4,
+   "area_mm2": 60.0,
+   "centro": [
+    39.38,
+    -181.0,
+    59.09
+   ],
+   "min": [
+    37.38,
+    -183.49,
+    56.89
+   ],
+   "max": [
+    41.7,
+    -178.67,
+    61.21
+   ],
+   "ejes_pca": [
+    1.74,
+    1.61,
+    1.46
+   ],
+   "aristas_borde": 9,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s007",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.439,
+   "sha256": "d222ab4903fa7c9990789f57b17fe2ecea0fc8a3e1b0b6c798712c0847128a76"
+  },
+  {
+   "k": 14,
+   "caras": 34,
+   "triangulos": 12,
+   "pct_tri": 35.3,
+   "area_mm2": 573.5,
+   "centro": [
+    -40.94,
+    -173.92,
+    71.04
+   ],
+   "min": [
+    -44.49,
+    -183.31,
+    57.46
+   ],
+   "max": [
+    -37.9,
+    -162.64,
+    87.78
+   ],
+   "ejes_pca": [
+    15.69,
+    1.61,
+    0.91
+   ],
+   "aristas_borde": 5,
+   "aristas_no_manifold": 4,
+   "clase": "panel",
+   "id": "s008",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "f7dede7c2332b45333352e4c04bea39c4496a8defa64d7c35f74af03ef93f771"
+  },
+  {
+   "k": 52,
+   "caras": 44,
+   "triangulos": 21,
+   "pct_tri": 47.7,
+   "area_mm2": 857.0,
+   "centro": [
+    41.2,
+    -173.53,
+    71.0
+   ],
+   "min": [
+    38.15,
+    -183.24,
+    57.14
+   ],
+   "max": [
+    44.74,
+    -162.56,
+    87.23
+   ],
+   "ejes_pca": [
+    15.78,
+    1.6,
+    0.94
+   ],
+   "aristas_borde": 1,
+   "aristas_no_manifold": 15,
+   "clase": "panel",
+   "id": "s009",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "3c67e94dfcdc9191dd544021f760747e236291a85c3da3d808b3a685f9dd8365"
+  },
+  {
+   "k": 15,
+   "caras": 18,
+   "triangulos": 8,
+   "pct_tri": 44.4,
+   "area_mm2": 56.3,
+   "centro": [
+    -43.35,
+    -164.05,
+    86.13
+   ],
+   "min": [
+    -45.5,
+    -166.18,
+    83.97
+   ],
+   "max": [
+    -41.19,
+    -162.12,
+    88.28
+   ],
+   "ejes_pca": [
+    1.85,
+    1.46,
+    1.44
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s010",
+   "usar": false,
+   "espejo_de": "s011",
+   "dist_espejo_mm": 0.396,
+   "sha256": "6b92784038877f44f4592970364231f3d286cfa0b8eeb886e82387f7109e079e"
+  },
+  {
+   "k": 53,
+   "caras": 18,
+   "triangulos": 8,
+   "pct_tri": 44.4,
+   "area_mm2": 57.4,
+   "centro": [
+    43.63,
+    -163.96,
+    85.9
+   ],
+   "min": [
+    41.44,
+    -166.1,
+    83.67
+   ],
+   "max": [
+    45.75,
+    -162.04,
+    87.98
+   ],
+   "ejes_pca": [
+    1.89,
+    1.46,
+    1.45
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s011",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.396,
+   "sha256": "bfe36e8c899bc4fc12a708ef5663c003850c7799c2cd237fdd257765e1c31d97"
+  },
+  {
+   "k": 49,
+   "caras": 95,
+   "triangulos": 39,
+   "pct_tri": 41.1,
+   "area_mm2": 2892.1,
+   "centro": [
+    61.59,
+    -161.15,
+    44.35
+   ],
+   "min": [
+    30.25,
+    -185.28,
+    29.59
+   ],
+   "max": [
+    94.9,
+    -146.53,
+    58.18
+   ],
+   "ejes_pca": [
+    27.61,
+    10.07,
+    2.66
+   ],
+   "aristas_borde": 21,
+   "aristas_no_manifold": 12,
+   "clase": "panel",
+   "id": "s012",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "236fb92369c6f5ffcb6772e5b6a434ed991acc4a0a0269bbb7adfe50aa10fc6e"
+  },
+  {
+   "k": 48,
+   "caras": 143,
+   "triangulos": 46,
+   "pct_tri": 32.2,
+   "area_mm2": 1652.9,
+   "centro": [
+    73.15,
+    -161.12,
+    68.85
+   ],
+   "min": [
+    39.93,
+    -191.04,
+    51.01
+   ],
+   "max": [
+    91.12,
+    -150.0,
+    116.33
+   ],
+   "ejes_pca": [
+    26.84,
+    15.19,
+    8.27
+   ],
+   "aristas_borde": 39,
+   "aristas_no_manifold": 15,
+   "clase": "panel",
+   "id": "s013",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "4ca2352a033c8da9c710ed8f7b7538bfa19adf4d5026db1507636cf25b60f8dc"
+  },
+  {
+   "k": 3,
+   "caras": 32,
+   "triangulos": 12,
+   "pct_tri": 37.5,
+   "area_mm2": 50.5,
+   "centro": [
+    -91.71,
+    -160.23,
+    30.34
+   ],
+   "min": [
+    -94.21,
+    -162.47,
+    28.46
+   ],
+   "max": [
+    -89.39,
+    -157.9,
+    32.27
+   ],
+   "ejes_pca": [
+    1.43,
+    1.41,
+    1.37
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s014",
+   "usar": false,
+   "espejo_de": "s016",
+   "dist_espejo_mm": 0.376,
+   "sha256": "9e7c06cd18c7e0aa382b221df4d6ada7239f149daa03e283ead05919612e0f9b"
+  },
+  {
+   "k": 8,
+   "caras": 30,
+   "triangulos": 11,
+   "pct_tri": 36.7,
+   "area_mm2": 49.5,
+   "centro": [
+    -91.86,
+    -160.12,
+    38.95
+   ],
+   "min": [
+    -94.2,
+    -162.43,
+    37.07
+   ],
+   "max": [
+    -89.39,
+    -157.86,
+    40.38
+   ],
+   "ejes_pca": [
+    1.47,
+    1.41,
+    1.22
+   ],
+   "aristas_borde": 9,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s015",
+   "usar": false,
+   "espejo_de": "s017",
+   "dist_espejo_mm": 0.55,
+   "sha256": "56927969a286fc7a13afe4240327dfd92501b421060998da00f82c64fb31ef62"
+  },
+  {
+   "k": 59,
+   "caras": 32,
+   "triangulos": 12,
+   "pct_tri": 37.5,
+   "area_mm2": 50.9,
+   "centro": [
+    91.72,
+    -160.07,
+    30.01
+   ],
+   "min": [
+    89.32,
+    -162.3,
+    28.1
+   ],
+   "max": [
+    94.13,
+    -157.73,
+    31.92
+   ],
+   "ejes_pca": [
+    1.46,
+    1.43,
+    1.36
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s016",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.376,
+   "sha256": "4bb558e9b7eeb8256c7d8ef69f104ca93fdf609caca2b845a8899ad6e57aed0b"
+  },
+  {
+   "k": 62,
+   "caras": 36,
+   "triangulos": 19,
+   "pct_tri": 52.8,
+   "area_mm2": 51.0,
+   "centro": [
+    91.87,
+    -159.96,
+    38.45
+   ],
+   "min": [
+    89.57,
+    -162.27,
+    36.46
+   ],
+   "max": [
+    94.14,
+    -157.69,
+    40.03
+   ],
+   "ejes_pca": [
+    1.48,
+    1.41,
+    1.28
+   ],
+   "aristas_borde": 9,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s017",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.55,
+   "sha256": "2db4e6ded5f40b574650ecf194f2a3c9aa83348da19d2ac0a8def3b5ecc98e51"
+  },
+  {
+   "k": 6,
+   "caras": 101,
+   "triangulos": 35,
+   "pct_tri": 34.7,
+   "area_mm2": 883.4,
+   "centro": [
+    -73.0,
+    -154.69,
+    73.78
+   ],
+   "min": [
+    -90.15,
+    -160.35,
+    51.98
+   ],
+   "max": [
+    -42.97,
+    -150.16,
+    116.64
+   ],
+   "ejes_pca": [
+    28.96,
+    10.43,
+    1.3
+   ],
+   "aristas_borde": 23,
+   "aristas_no_manifold": 6,
+   "clase": "panel",
+   "id": "s018",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "e88b0e5a5360517a554de4168ce2010a506578efabaa28b59f125e4b05285dbd"
+  },
+  {
+   "k": 9,
+   "caras": 820,
+   "triangulos": 211,
+   "pct_tri": 25.7,
+   "area_mm2": 3590.1,
+   "centro": [
+    -72.44,
+    -148.86,
+    90.34
+   ],
+   "min": [
+    -88.88,
+    -155.16,
+    57.29
+   ],
+   "max": [
+    -55.38,
+    -142.72,
+    122.69
+   ],
+   "ejes_pca": [
+    16.77,
+    3.78,
+    3.76
+   ],
+   "aristas_borde": 84,
+   "aristas_no_manifold": 97,
+   "clase": "tubo",
+   "id": "s019",
+   "usar": false,
+   "espejo_de": "s020",
+   "dist_espejo_mm": 0.267,
+   "sha256": "20f66e7e8736621299e00c91f51177d20b9a9e7a1aefa109983884cf5eb34b54"
+  },
+  {
+   "k": 57,
+   "caras": 811,
+   "triangulos": 199,
+   "pct_tri": 24.5,
+   "area_mm2": 3587.0,
+   "centro": [
+    72.66,
+    -148.74,
+    90.14
+   ],
+   "min": [
+    55.64,
+    -155.0,
+    56.95
+   ],
+   "max": [
+    89.07,
+    -142.58,
+    122.62
+   ],
+   "ejes_pca": [
+    16.76,
+    3.78,
+    3.76
+   ],
+   "aristas_borde": 62,
+   "aristas_no_manifold": 82,
+   "clase": "tubo",
+   "id": "s020",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.267,
+   "sha256": "c532fab3f0d03f1b0c26df359dbe91ef37e1187c0c19517263786a1ce9439970"
+  },
+  {
+   "k": 10,
+   "caras": 41,
+   "triangulos": 16,
+   "pct_tri": 39.0,
+   "area_mm2": 300.7,
+   "centro": [
+    -91.1,
+    -148.62,
+    52.26
+   ],
+   "min": [
+    -95.48,
+    -151.92,
+    46.4
+   ],
+   "max": [
+    -83.81,
+    -145.33,
+    60.09
+   ],
+   "ejes_pca": [
+    5.42,
+    2.29,
+    2.28
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s021",
+   "usar": false,
+   "espejo_de": "s022",
+   "dist_espejo_mm": 0.32,
+   "sha256": "043e07ab2fd534009838e6e8ef0a34956ecfa4a662cbc2b2f883561414a2fecd"
+  },
+  {
+   "k": 63,
+   "caras": 39,
+   "triangulos": 12,
+   "pct_tri": 30.8,
+   "area_mm2": 301.0,
+   "centro": [
+    91.08,
+    -148.46,
+    52.02
+   ],
+   "min": [
+    83.74,
+    -151.76,
+    46.29
+   ],
+   "max": [
+    95.4,
+    -145.17,
+    59.74
+   ],
+   "ejes_pca": [
+    5.46,
+    2.29,
+    2.26
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s022",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.32,
+   "sha256": "10aaf5c182109f0a3e1eef0857e5578a39090520ac0efbdb380491ced566def0"
+  },
+  {
+   "k": 0,
+   "caras": 760,
+   "triangulos": 95,
+   "pct_tri": 12.5,
+   "area_mm2": 25001.7,
+   "centro": [
+    -109.13,
+    -148.31,
+    49.61
+   ],
+   "min": [
+    -129.73,
+    -196.9,
+    0.52
+   ],
+   "max": [
+    -91.38,
+    -99.02,
+    98.62
+   ],
+   "ejes_pca": [
+    28.55,
+    28.3,
+    14.64
+   ],
+   "aristas_borde": 45,
+   "aristas_no_manifold": 40,
+   "clase": "rueda",
+   "id": "s023",
+   "usar": false,
+   "espejo_de": "s024",
+   "dist_espejo_mm": 0.345,
+   "sha256": "9d0ef127ffcd9f4489f9118be2d274fa766b98c45b410735df088f6b1c70293a"
+  },
+  {
+   "k": 58,
+   "caras": 797,
+   "triangulos": 115,
+   "pct_tri": 14.4,
+   "area_mm2": 25090.5,
+   "centro": [
+    109.6,
+    -147.87,
+    50.16
+   ],
+   "min": [
+    91.3,
+    -196.91,
+    0.4
+   ],
+   "max": [
+    129.11,
+    -98.81,
+    98.5
+   ],
+   "ejes_pca": [
+    28.53,
+    28.34,
+    14.77
+   ],
+   "aristas_borde": 44,
+   "aristas_no_manifold": 45,
+   "clase": "rueda",
+   "id": "s024",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.345,
+   "sha256": "e68e01418d69aeb1c7145f09a0f29a75c1f6858c1722803548b380f6f1bd5c8c"
+  },
+  {
+   "k": 61,
+   "caras": 162,
+   "triangulos": 52,
+   "pct_tri": 32.1,
+   "area_mm2": 2595.7,
+   "centro": [
+    121.38,
+    -147.72,
+    49.47
+   ],
+   "min": [
+    111.61,
+    -173.57,
+    23.72
+   ],
+   "max": [
+    123.82,
+    -122.12,
+    75.17
+   ],
+   "ejes_pca": [
+    15.96,
+    15.82,
+    4.46
+   ],
+   "aristas_borde": 44,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s025",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.263,
+   "sha256": "44424f0308d5b0f2ba68efbb8e1619c303dec3ebed5c3f292f47c38c0067eb64"
+  },
+  {
+   "k": 2,
+   "caras": 168,
+   "triangulos": 59,
+   "pct_tri": 35.1,
+   "area_mm2": 2593.1,
+   "centro": [
+    -121.5,
+    -147.71,
+    49.15
+   ],
+   "min": [
+    -123.89,
+    -173.8,
+    23.85
+   ],
+   "max": [
+    -111.69,
+    -122.35,
+    75.31
+   ],
+   "ejes_pca": [
+    16.04,
+    15.74,
+    4.43
+   ],
+   "aristas_borde": 45,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s026",
+   "usar": false,
+   "espejo_de": "s025",
+   "dist_espejo_mm": 0.263,
+   "sha256": "c6126a75f4ddc7c386e31fc22ed32f1e728bc5ca124d21cdcff053878cf6bb76"
+  },
+  {
+   "k": 84,
+   "caras": 1,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 434.5,
+   "centro": [
+    -113.98,
+    -147.69,
+    49.39
+   ],
+   "min": [
+    -113.99,
+    -160.66,
+    36.48
+   ],
+   "max": [
+    -113.97,
+    -134.98,
+    62.92
+   ],
+   "ejes_pca": [
+    12.3,
+    11.78,
+    0.0
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s027",
+   "usar": false,
+   "espejo_de": "s028",
+   "dist_espejo_mm": 0.386,
+   "sha256": "b5872a0e80a6b057dab9581afb83d509eeae7831a32893b252d94aca0931be2d"
+  },
+  {
+   "k": 94,
+   "caras": 1,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 436.0,
+   "centro": [
+    113.65,
+    -147.6,
+    49.26
+   ],
+   "min": [
+    113.63,
+    -160.7,
+    36.36
+   ],
+   "max": [
+    113.66,
+    -134.76,
+    62.79
+   ],
+   "ejes_pca": [
+    12.34,
+    11.78,
+    0.0
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s028",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.386,
+   "sha256": "c4db9cd93feaea0c5e2c0d1013a071cd7be6d2b912f46bd1c4eff88d31956f54"
+  },
+  {
+   "k": 11,
+   "caras": 29,
+   "triangulos": 18,
+   "pct_tri": 62.1,
+   "area_mm2": 69.1,
+   "centro": [
+    -87.56,
+    -144.82,
+    54.14
+   ],
+   "min": [
+    -89.9,
+    -146.88,
+    51.96
+   ],
+   "max": [
+    -85.59,
+    -142.81,
+    56.27
+   ],
+   "ejes_pca": [
+    1.85,
+    1.47,
+    1.43
+   ],
+   "aristas_borde": 0,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s029",
+   "usar": false,
+   "espejo_de": "s030",
+   "dist_espejo_mm": 0.433,
+   "sha256": "a6c7c7289e346c8c182a9975350799f2d1145c5dc8e25d5c27f52c7ad071257e"
+  },
+  {
+   "k": 65,
+   "caras": 29,
+   "triangulos": 18,
+   "pct_tri": 62.1,
+   "area_mm2": 69.2,
+   "centro": [
+    87.64,
+    -144.7,
+    53.77
+   ],
+   "min": [
+    85.76,
+    -146.72,
+    51.61
+   ],
+   "max": [
+    90.08,
+    -142.65,
+    55.92
+   ],
+   "ejes_pca": [
+    1.86,
+    1.49,
+    1.39
+   ],
+   "aristas_borde": 0,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s030",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.433,
+   "sha256": "ee9266527eae14eb4b9c816cb7851347f183bb64a18f86af4c490d14796b5b65"
+  },
+  {
+   "k": 4,
+   "caras": 228,
+   "triangulos": 99,
+   "pct_tri": 43.4,
+   "area_mm2": 6195.4,
+   "centro": [
+    -58.05,
+    -144.34,
+    46.67
+   ],
+   "min": [
+    -94.74,
+    -185.34,
+    29.13
+   ],
+   "max": [
+    -27.82,
+    -114.61,
+    61.67
+   ],
+   "ejes_pca": [
+    28.37,
+    17.68,
+    3.0
+   ],
+   "aristas_borde": 52,
+   "aristas_no_manifold": 28,
+   "clase": "panel",
+   "id": "s031",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "dc57792e3b96a933cc73d65a8948c82c4fc0339e16a6b88ee73f17f02f09ca7c"
+  },
+  {
+   "k": 16,
+   "caras": 57,
+   "triangulos": 6,
+   "pct_tri": 10.5,
+   "area_mm2": 858.1,
+   "centro": [
+    -64.12,
+    -139.62,
+    81.62
+   ],
+   "min": [
+    -88.89,
+    -146.61,
+    52.2
+   ],
+   "max": [
+    -40.97,
+    -131.7,
+    117.06
+   ],
+   "ejes_pca": [
+    29.15,
+    12.55,
+    1.2
+   ],
+   "aristas_borde": 14,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s032",
+   "usar": false,
+   "espejo_de": "s033",
+   "dist_espejo_mm": 0.364,
+   "sha256": "101e45e1fb48beb2ce93cefb43a9d13e3b3ac31841a18a8cccc0b8d22364fad7"
+  },
+  {
+   "k": 56,
+   "caras": 59,
+   "triangulos": 8,
+   "pct_tri": 13.6,
+   "area_mm2": 857.0,
+   "centro": [
+    64.23,
+    -139.48,
+    81.87
+   ],
+   "min": [
+    41.16,
+    -146.45,
+    51.85
+   ],
+   "max": [
+    89.06,
+    -131.62,
+    116.99
+   ],
+   "ejes_pca": [
+    29.22,
+    12.63,
+    1.2
+   ],
+   "aristas_borde": 14,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s033",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.364,
+   "sha256": "da220455f871a46b5089048dd4bd5fa32726633501ea870b09112f71bbf0f068"
+  },
+  {
+   "k": 5,
+   "caras": 34,
+   "triangulos": 16,
+   "pct_tri": 47.1,
+   "area_mm2": 50.2,
+   "centro": [
+    -91.6,
+    -135.94,
+    30.18
+   ],
+   "min": [
+    -94.23,
+    -138.14,
+    28.33
+   ],
+   "max": [
+    -89.41,
+    -133.57,
+    32.14
+   ],
+   "ejes_pca": [
+    1.44,
+    1.42,
+    1.37
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s034",
+   "usar": false,
+   "espejo_de": "s035",
+   "dist_espejo_mm": 0.385,
+   "sha256": "657a4751f50e6c82b541940c35c13e4193111280de683ed364b9345666f24e99"
+  },
+  {
+   "k": 60,
+   "caras": 34,
+   "triangulos": 16,
+   "pct_tri": 47.1,
+   "area_mm2": 51.5,
+   "centro": [
+    91.45,
+    -135.77,
+    29.91
+   ],
+   "min": [
+    89.29,
+    -137.97,
+    27.97
+   ],
+   "max": [
+    94.11,
+    -133.4,
+    31.79
+   ],
+   "ejes_pca": [
+    1.51,
+    1.43,
+    1.35
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s035",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.385,
+   "sha256": "83a8e3e6ed277c5a7be3e431d4b00d66be2e95955973d1533788973f293958b5"
+  },
+  {
+   "k": 12,
+   "caras": 33,
+   "triangulos": 11,
+   "pct_tri": 33.3,
+   "area_mm2": 48.1,
+   "centro": [
+    -91.78,
+    -135.73,
+    38.48
+   ],
+   "min": [
+    -93.97,
+    -137.85,
+    36.45
+   ],
+   "max": [
+    -89.41,
+    -133.53,
+    40.25
+   ],
+   "ejes_pca": [
+    1.4,
+    1.38,
+    1.34
+   ],
+   "aristas_borde": 11,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s036",
+   "usar": false,
+   "espejo_de": "s037",
+   "dist_espejo_mm": 0.486,
+   "sha256": "690f1d34c4e6130654a1bf02e2f8337cef417943fb38af7fd8f300bdcc15ca59"
+  },
+  {
+   "k": 64,
+   "caras": 33,
+   "triangulos": 11,
+   "pct_tri": 33.3,
+   "area_mm2": 48.6,
+   "centro": [
+    91.67,
+    -135.53,
+    38.14
+   ],
+   "min": [
+    89.3,
+    -137.92,
+    36.08
+   ],
+   "max": [
+    93.86,
+    -133.36,
+    39.9
+   ],
+   "ejes_pca": [
+    1.46,
+    1.37,
+    1.29
+   ],
+   "aristas_borde": 11,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s037",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.486,
+   "sha256": "80bef25888290e425d30fdef02d6e80f12872f405fa35b0a1dcf88c90acc13d9"
+  },
+  {
+   "k": 50,
+   "caras": 130,
+   "triangulos": 63,
+   "pct_tri": 48.5,
+   "area_mm2": 2989.5,
+   "centro": [
+    54.7,
+    -131.58,
+    48.13
+   ],
+   "min": [
+    27.94,
+    -150.55,
+    28.77
+   ],
+   "max": [
+    94.63,
+    -114.56,
+    61.38
+   ],
+   "ejes_pca": [
+    28.33,
+    9.96,
+    3.0
+   ],
+   "aristas_borde": 30,
+   "aristas_no_manifold": 13,
+   "clase": "panel",
+   "id": "s038",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "1832a4373af2e74bc2b786706baac0e2929d869c116bd5f2dc0792592e5b2a20"
+  },
+  {
+   "k": 17,
+   "caras": 18,
+   "triangulos": 8,
+   "pct_tri": 44.4,
+   "area_mm2": 58.2,
+   "centro": [
+    -39.62,
+    -126.96,
+    86.87
+   ],
+   "min": [
+    -41.73,
+    -128.91,
+    84.78
+   ],
+   "max": [
+    -37.43,
+    -124.85,
+    89.1
+   ],
+   "ejes_pca": [
+    1.88,
+    1.49,
+    1.45
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s039",
+   "usar": false,
+   "espejo_de": "s040",
+   "dist_espejo_mm": 0.357,
+   "sha256": "9bcb84c9c1b1dc3c5789e985b1cb270aa41b546879d755000fc7ac20899f5d91"
+  },
+  {
+   "k": 54,
+   "caras": 18,
+   "triangulos": 8,
+   "pct_tri": 44.4,
+   "area_mm2": 56.9,
+   "centro": [
+    39.85,
+    -126.88,
+    86.65
+   ],
+   "min": [
+    37.6,
+    -128.84,
+    84.48
+   ],
+   "max": [
+    41.92,
+    -124.78,
+    88.8
+   ],
+   "ejes_pca": [
+    1.88,
+    1.46,
+    1.44
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s040",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.357,
+   "sha256": "67216be66c506a9824e6fa3bfaad753914bfe9a83d52f64957beebb23afd3b48"
+  },
+  {
+   "k": 18,
+   "caras": 52,
+   "triangulos": 20,
+   "pct_tri": 38.5,
+   "area_mm2": 558.6,
+   "centro": [
+    -37.68,
+    -118.69,
+    74.6
+   ],
+   "min": [
+    -40.72,
+    -128.41,
+    59.37
+   ],
+   "max": [
+    -33.39,
+    -112.25,
+    88.32
+   ],
+   "ejes_pca": [
+    9.77,
+    3.94,
+    1.07
+   ],
+   "aristas_borde": 0,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s041",
+   "usar": false,
+   "espejo_de": "s042",
+   "dist_espejo_mm": 0.359,
+   "sha256": "9d0ae1dd874d0963a97d68c298030609ba490790d6c337da42e5f941e2802939"
+  },
+  {
+   "k": 55,
+   "caras": 51,
+   "triangulos": 18,
+   "pct_tri": 35.3,
+   "area_mm2": 573.8,
+   "centro": [
+    37.77,
+    -118.61,
+    74.3
+   ],
+   "min": [
+    33.27,
+    -128.34,
+    59.08
+   ],
+   "max": [
+    40.9,
+    -112.18,
+    87.77
+   ],
+   "ejes_pca": [
+    9.73,
+    3.94,
+    1.07
+   ],
+   "aristas_borde": 0,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s042",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.359,
+   "sha256": "096059544747e356dfc3365321dc054878c5a73ca138ca53fd29743d3e810c15"
+  },
+  {
+   "k": 87,
+   "caras": 9,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 246.2,
+   "centro": [
+    -27.67,
+    -118.19,
+    54.94
+   ],
+   "min": [
+    -30.86,
+    -122.5,
+    51.5
+   ],
+   "max": [
+    -22.49,
+    -113.83,
+    59.65
+   ],
+   "ejes_pca": [
+    4.39,
+    3.26,
+    2.91
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s043",
+   "usar": false,
+   "espejo_de": "s044",
+   "dist_espejo_mm": 0.228,
+   "sha256": "bc20a24397086620e79a3ea57e4c57f7d88745bf8499515edea5c396872722bb"
+  },
+  {
+   "k": 93,
+   "caras": 9,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 242.9,
+   "centro": [
+    27.74,
+    -118.14,
+    54.79
+   ],
+   "min": [
+    22.62,
+    -122.45,
+    51.47
+   ],
+   "max": [
+    30.98,
+    -113.79,
+    59.37
+   ],
+   "ejes_pca": [
+    4.39,
+    3.23,
+    2.87
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s044",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.228,
+   "sha256": "d9819abfda22beb180aea44d47a4d6b14149744ec7b53327fd9d7d8f1c9fcd39"
+  },
+  {
+   "k": 88,
+   "caras": 4,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 317.2,
+   "centro": [
+    -17.55,
+    -117.2,
+    55.39
+   ],
+   "min": [
+    -26.56,
+    -120.72,
+    52.52
+   ],
+   "max": [
+    -8.55,
+    -114.07,
+    59.38
+   ],
+   "ejes_pca": [
+    9.49,
+    3.17,
+    2.92
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s045",
+   "usar": false,
+   "espejo_de": "s046",
+   "dist_espejo_mm": 0.287,
+   "sha256": "8a7597c72e742285a67debc59882a9660c178c59c36e4c372fa6eeb5e9cd1f98"
+  },
+  {
+   "k": 95,
+   "caras": 4,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 310.6,
+   "centro": [
+    17.55,
+    -117.17,
+    55.14
+   ],
+   "min": [
+    8.68,
+    -120.69,
+    52.24
+   ],
+   "max": [
+    26.43,
+    -114.05,
+    59.12
+   ],
+   "ejes_pca": [
+    9.36,
+    3.16,
+    2.9
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s046",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.287,
+   "sha256": "2c0a388e7a667de474837feda1ddb4598c153f700b674f7d6142c55f663114f2"
+  },
+  {
+   "k": 89,
+   "caras": 1,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 138.3,
+   "centro": [
+    -0.06,
+    -115.21,
+    58.08
+   ],
+   "min": [
+    -26.55,
+    -116.37,
+    57.3
+   ],
+   "max": [
+    26.43,
+    -114.05,
+    58.86
+   ],
+   "ejes_pca": [
+    30.59,
+    1.51,
+    0.0
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "astilla",
+   "id": "s047",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "7f8d2c0d02fade602891da54821c959da4c9357a7f7ca99d2830d02f0a660431"
+  },
+  {
+   "k": 20,
+   "caras": 12,
+   "triangulos": 6,
+   "pct_tri": 50.0,
+   "area_mm2": 54.3,
+   "centro": [
+    -37.41,
+    -114.65,
+    73.56
+   ],
+   "min": [
+    -40.23,
+    -116.05,
+    71.79
+   ],
+   "max": [
+    -33.9,
+    -113.51,
+    75.33
+   ],
+   "ejes_pca": [
+    3.12,
+    1.04,
+    0.97
+   ],
+   "aristas_borde": 6,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s048",
+   "usar": false,
+   "espejo_de": "s049",
+   "dist_espejo_mm": 0.613,
+   "sha256": "0ae9cbcaf19b21f0e8da83945318cd6661661fe258f96c465e737247752aa3c6"
+  },
+  {
+   "k": 66,
+   "caras": 10,
+   "triangulos": 4,
+   "pct_tri": 40.0,
+   "area_mm2": 51.3,
+   "centro": [
+    37.48,
+    -114.63,
+    73.05
+   ],
+   "min": [
+    34.29,
+    -115.74,
+    71.49
+   ],
+   "max": [
+    40.63,
+    -113.45,
+    74.79
+   ],
+   "ejes_pca": [
+    3.14,
+    0.97,
+    0.95
+   ],
+   "aristas_borde": 6,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s049",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.613,
+   "sha256": "7671e34daeef64fb79947016a74744e52fc537226b234fdd2872a3be44bc5f1f"
+  },
+  {
+   "k": 19,
+   "caras": 7,
+   "triangulos": 4,
+   "pct_tri": 57.1,
+   "area_mm2": 771.9,
+   "centro": [
+    -101.34,
+    -73.7,
+    69.32
+   ],
+   "min": [
+    -116.32,
+    -84.28,
+    54.92
+   ],
+   "max": [
+    -83.62,
+    -65.89,
+    79.18
+   ],
+   "ejes_pca": [
+    16.56,
+    10.74,
+    0.67
+   ],
+   "aristas_borde": 8,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s050",
+   "usar": false,
+   "espejo_de": "s051",
+   "dist_espejo_mm": 0.648,
+   "sha256": "d72d13a6fb9fdb2e9dd224de59de3aaab8240c5b37098eb3ddea926bc01c2099"
+  },
+  {
+   "k": 67,
+   "caras": 7,
+   "triangulos": 4,
+   "pct_tri": 57.1,
+   "area_mm2": 773.8,
+   "centro": [
+    100.87,
+    -73.54,
+    68.98
+   ],
+   "min": [
+    83.43,
+    -84.1,
+    54.32
+   ],
+   "max": [
+    116.13,
+    -65.71,
+    79.06
+   ],
+   "ejes_pca": [
+    16.52,
+    10.7,
+    0.71
+   ],
+   "aristas_borde": 8,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s051",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.648,
+   "sha256": "94045f67c528021e8209bb0cb2cb4eac30de402ab316a2dc2652f793c2a85f6f"
+  },
+  {
+   "k": 21,
+   "caras": 2,
+   "triangulos": 1,
+   "pct_tri": 50.0,
+   "area_mm2": 92.8,
+   "centro": [
+    -11.95,
+    -6.14,
+    60.13
+   ],
+   "min": [
+    -16.51,
+    -10.91,
+    58.53
+   ],
+   "max": [
+    -6.12,
+    0.26,
+    61.26
+   ],
+   "ejes_pca": [
+    6.13,
+    4.09,
+    0.62
+   ],
+   "aristas_borde": 5,
+   "aristas_no_manifold": 0,
+   "clase": "astilla",
+   "id": "s052",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "0418bd43058fbabb78e76aadb85c6651596424bde9a1d2b0193f1121b2d84da0"
+  },
+  {
+   "k": 26,
+   "caras": 2,
+   "triangulos": 1,
+   "pct_tri": 50.0,
+   "area_mm2": 91.2,
+   "centro": [
+    11.77,
+    -6.12,
+    60.12
+   ],
+   "min": [
+    6.05,
+    -10.9,
+    58.52
+   ],
+   "max": [
+    16.19,
+    0.28,
+    61.25
+   ],
+   "ejes_pca": [
+    6.15,
+    3.99,
+    0.62
+   ],
+   "aristas_borde": 5,
+   "aristas_no_manifold": 0,
+   "clase": "astilla",
+   "id": "s053",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "55d9b296a80a730763420e41ce0eb6ae788b8105ab0967bbc333d86c3c873876"
+  },
+  {
+   "k": 1,
+   "caras": 1635,
+   "triangulos": 430,
+   "pct_tri": 26.3,
+   "area_mm2": 332625.5,
+   "centro": [
+    -0.25,
+    -0.74,
+    132.35
+   ],
+   "min": [
+    -129.66,
+    -251.3,
+    39.78
+   ],
+   "max": [
+    129.65,
+    252.47,
+    198.03
+   ],
+   "ejes_pca": [
+    149.7,
+    73.49,
+    36.65
+   ],
+   "aristas_borde": 42,
+   "aristas_no_manifold": 4,
+   "clase": "panel",
+   "id": "s054",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "b580b82fb4ac84e917b9311b21ce71f3a210d6bea21c97acb40eaf45ddff7923"
+  },
+  {
+   "k": 25,
+   "caras": 46,
+   "triangulos": 23,
+   "pct_tri": 50.0,
+   "area_mm2": 1633.6,
+   "centro": [
+    -26.55,
+    67.33,
+    63.93
+   ],
+   "min": [
+    -31.04,
+    17.99,
+    56.28
+   ],
+   "max": [
+    -16.58,
+    77.37,
+    71.78
+   ],
+   "ejes_pca": [
+    18.73,
+    5.35,
+    5.28
+   ],
+   "aristas_borde": 18,
+   "aristas_no_manifold": 7,
+   "clase": "panel",
+   "id": "s055",
+   "usar": false,
+   "espejo_de": "s056",
+   "dist_espejo_mm": 0.355,
+   "sha256": "bf6e1d3f5171c3ee31e086a20cafe8609a7fb8a30a686bdd134a4c8b4e10ed4d"
+  },
+  {
+   "k": 68,
+   "caras": 44,
+   "triangulos": 18,
+   "pct_tri": 40.9,
+   "area_mm2": 1627.9,
+   "centro": [
+    26.25,
+    67.36,
+    63.8
+   ],
+   "min": [
+    16.36,
+    18.04,
+    56.26
+   ],
+   "max": [
+    30.56,
+    77.41,
+    71.76
+   ],
+   "ejes_pca": [
+    18.75,
+    5.37,
+    5.24
+   ],
+   "aristas_borde": 20,
+   "aristas_no_manifold": 6,
+   "clase": "panel",
+   "id": "s056",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.355,
+   "sha256": "42d7f3f71c0bcdc4192355df2b0756d591fec9274f85d43e0ee6afe2157a6b44"
+  },
+  {
+   "k": 24,
+   "caras": 3,
+   "triangulos": 2,
+   "pct_tri": 66.7,
+   "area_mm2": 2705.6,
+   "centro": [
+    -0.15,
+    84.25,
+    76.01
+   ],
+   "min": [
+    -34.86,
+    66.97,
+    73.22
+   ],
+   "max": [
+    34.38,
+    104.85,
+    81.49
+   ],
+   "ejes_pca": [
+    37.81,
+    17.55,
+    1.53
+   ],
+   "aristas_borde": 6,
+   "aristas_no_manifold": 0,
+   "clase": "astilla",
+   "id": "s057",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "c1b5277414d59829d9ad3a07abccb93345bac736154a7e489c0c3ae792fae5a7"
+  },
+  {
+   "k": 28,
+   "caras": 34,
+   "triangulos": 10,
+   "pct_tri": 29.4,
+   "area_mm2": 99.5,
+   "centro": [
+    -18.89,
+    99.24,
+    65.29
+   ],
+   "min": [
+    -19.91,
+    94.57,
+    60.73
+   ],
+   "max": [
+    -17.36,
+    103.95,
+    69.85
+   ],
+   "ejes_pca": [
+    2.7,
+    2.65,
+    1.11
+   ],
+   "aristas_borde": 12,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s058",
+   "usar": false,
+   "espejo_de": "s059",
+   "dist_espejo_mm": 0.775,
+   "sha256": "4a04e2006dddbe35d9f12a472406541668668fb0e12c580b3a7affd56a308398"
+  },
+  {
+   "k": 69,
+   "caras": 34,
+   "triangulos": 10,
+   "pct_tri": 29.4,
+   "area_mm2": 99.5,
+   "centro": [
+    18.12,
+    99.28,
+    65.27
+   ],
+   "min": [
+    16.59,
+    94.6,
+    60.71
+   ],
+   "max": [
+    19.13,
+    103.98,
+    69.83
+   ],
+   "ejes_pca": [
+    2.7,
+    2.65,
+    1.11
+   ],
+   "aristas_borde": 12,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s059",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.775,
+   "sha256": "cae85be03f51f57aa62cbc6cbf2ea33fdf7ddb37e4d50bc2f33ea62fab35641d"
+  },
+  {
+   "k": 27,
+   "caras": 31,
+   "triangulos": 20,
+   "pct_tri": 64.5,
+   "area_mm2": 128.3,
+   "centro": [
+    -48.84,
+    101.65,
+    89.93
+   ],
+   "min": [
+    -52.09,
+    98.22,
+    87.08
+   ],
+   "max": [
+    -45.49,
+    105.33,
+    92.93
+   ],
+   "ejes_pca": [
+    2.22,
+    2.17,
+    2.0
+   ],
+   "aristas_borde": 0,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s060",
+   "usar": false,
+   "espejo_de": "s061",
+   "dist_espejo_mm": 0.36,
+   "sha256": "ffedb101172c032c083d953e719f0fa039aa44a5be2e5b77001d67e8e6bb2074"
+  },
+  {
+   "k": 70,
+   "caras": 31,
+   "triangulos": 20,
+   "pct_tri": 64.5,
+   "area_mm2": 126.9,
+   "centro": [
+    48.51,
+    101.76,
+    89.87
+   ],
+   "min": [
+    45.25,
+    98.31,
+    87.03
+   ],
+   "max": [
+    51.84,
+    105.42,
+    92.88
+   ],
+   "ejes_pca": [
+    2.23,
+    2.17,
+    1.95
+   ],
+   "aristas_borde": 0,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s061",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.36,
+   "sha256": "f3b6125a402187412bd1855d294a26cbede595d49cc0aa1a50044852855a2ec2"
+  },
+  {
+   "k": 22,
+   "caras": 105,
+   "triangulos": 9,
+   "pct_tri": 8.6,
+   "area_mm2": 16564.0,
+   "centro": [
+    -0.37,
+    143.24,
+    72.29
+   ],
+   "min": [
+    -17.68,
+    -10.91,
+    51.81
+   ],
+   "max": [
+    17.07,
+    165.14,
+    90.03
+   ],
+   "ejes_pca": [
+    37.56,
+    12.11,
+    12.05
+   ],
+   "aristas_borde": 27,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s062",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "b675af4092d55176db32214d3f1b4776d9a9b9f037ea2aec538ec1cce27609c7"
+  },
+  {
+   "k": 32,
+   "caras": 174,
+   "triangulos": 14,
+   "pct_tri": 8.0,
+   "area_mm2": 2379.8,
+   "centro": [
+    -52.22,
+    156.11,
+    57.96
+   ],
+   "min": [
+    -77.0,
+    142.19,
+    45.95
+   ],
+   "max": [
+    -29.08,
+    170.24,
+    70.1
+   ],
+   "ejes_pca": [
+    20.92,
+    4.04,
+    4.03
+   ],
+   "aristas_borde": 16,
+   "aristas_no_manifold": 0,
+   "clase": "tubo",
+   "id": "s063",
+   "usar": false,
+   "espejo_de": "s064",
+   "dist_espejo_mm": 0.38,
+   "sha256": "96901a432405be863086fe4ea0b6fe2e649dc21a87d82c9fd176f2313b2e8483"
+  },
+  {
+   "k": 96,
+   "caras": 160,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 2330.8,
+   "centro": [
+    51.86,
+    156.2,
+    57.9
+   ],
+   "min": [
+    28.72,
+    142.25,
+    45.87
+   ],
+   "max": [
+    76.86,
+    170.37,
+    70.06
+   ],
+   "ejes_pca": [
+    20.92,
+    4.05,
+    4.02
+   ],
+   "aristas_borde": 32,
+   "aristas_no_manifold": 0,
+   "clase": "tubo",
+   "id": "s064",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.38,
+   "sha256": "43fc11118cc75e93c9be0a5e8683d8fb98b76eebdaa0df3be9801b17c599ec43"
+  },
+  {
+   "k": 31,
+   "caras": 70,
+   "triangulos": 2,
+   "pct_tri": 2.9,
+   "area_mm2": 2628.3,
+   "centro": [
+    -58.14,
+    159.41,
+    55.58
+   ],
+   "min": [
+    -96.54,
+    140.95,
+    42.63
+   ],
+   "max": [
+    -11.83,
+    175.78,
+    70.11
+   ],
+   "ejes_pca": [
+    33.85,
+    3.78,
+    3.36
+   ],
+   "aristas_borde": 24,
+   "aristas_no_manifold": 0,
+   "clase": "tubo",
+   "id": "s065",
+   "usar": false,
+   "espejo_de": "s066",
+   "dist_espejo_mm": 0.579,
+   "sha256": "60765bd5d5598feb5b7a7f0d8d5586458e347781eb90b32c66d2ea223a69a311"
+  },
+  {
+   "k": 72,
+   "caras": 70,
+   "triangulos": 6,
+   "pct_tri": 8.6,
+   "area_mm2": 2602.6,
+   "centro": [
+    57.38,
+    159.5,
+    55.72
+   ],
+   "min": [
+    11.48,
+    140.98,
+    42.53
+   ],
+   "max": [
+    96.37,
+    175.7,
+    70.09
+   ],
+   "ejes_pca": [
+    34.16,
+    3.77,
+    3.31
+   ],
+   "aristas_borde": 24,
+   "aristas_no_manifold": 0,
+   "clase": "tubo",
+   "id": "s066",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.579,
+   "sha256": "9d930d0f9f1f8cf7341c3506d56c47f8e0cea0d4aef1504ff47498b213dfeb86"
+  },
+  {
+   "k": 99,
+   "caras": 1,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 442.9,
+   "centro": [
+    113.35,
+    171.85,
+    47.65
+   ],
+   "min": [
+    113.34,
+    159.45,
+    33.61
+   ],
+   "max": [
+    113.36,
+    184.88,
+    60.3
+   ],
+   "ejes_pca": [
+    12.72,
+    11.63,
+    0.0
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s067",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "7f61d766f3e1d59e1752bcf984d050d0aa01cdf60a8b764c306bb8ca144342f6"
+  },
+  {
+   "k": 29,
+   "caras": 164,
+   "triangulos": 62,
+   "pct_tri": 37.8,
+   "area_mm2": 2589.5,
+   "centro": [
+    -121.72,
+    172.31,
+    47.89
+   ],
+   "min": [
+    -124.19,
+    146.59,
+    22.37
+   ],
+   "max": [
+    -111.99,
+    198.05,
+    73.82
+   ],
+   "ejes_pca": [
+    15.95,
+    15.76,
+    4.5
+   ],
+   "aristas_borde": 44,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s068",
+   "usar": false,
+   "espejo_de": "s072",
+   "dist_espejo_mm": 0.84,
+   "sha256": "af6265924bb18b976bd4177336ede1f812e0dc1dfa759b96e28755e47656cac8"
+  },
+  {
+   "k": 30,
+   "caras": 754,
+   "triangulos": 92,
+   "pct_tri": 12.2,
+   "area_mm2": 25001.6,
+   "centro": [
+    -109.42,
+    172.43,
+    47.96
+   ],
+   "min": [
+    -129.52,
+    123.29,
+    -0.74
+   ],
+   "max": [
+    -91.68,
+    221.38,
+    96.88
+   ],
+   "ejes_pca": [
+    28.39,
+    28.36,
+    14.62
+   ],
+   "aristas_borde": 45,
+   "aristas_no_manifold": 46,
+   "clase": "rueda",
+   "id": "s069",
+   "usar": false,
+   "espejo_de": "s070",
+   "dist_espejo_mm": 0.817,
+   "sha256": "90b25bf90e883e294cc170693f1c1a51834acbb552f1eef1a976761b8e108ee7"
+  },
+  {
+   "k": 71,
+   "caras": 771,
+   "triangulos": 117,
+   "pct_tri": 15.2,
+   "area_mm2": 24951.6,
+   "centro": [
+    108.73,
+    172.43,
+    47.81
+   ],
+   "min": [
+    91.0,
+    123.49,
+    -1.34
+   ],
+   "max": [
+    128.81,
+    221.59,
+    96.76
+   ],
+   "ejes_pca": [
+    28.42,
+    28.34,
+    14.66
+   ],
+   "aristas_borde": 46,
+   "aristas_no_manifold": 46,
+   "clase": "rueda",
+   "id": "s070",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.817,
+   "sha256": "d7219d874c7a9fc6129a0608f6a659fd95a59747dc7f9d405ffd7e85f90ab865"
+  },
+  {
+   "k": 23,
+   "caras": 890,
+   "triangulos": 284,
+   "pct_tri": 31.9,
+   "area_mm2": 57529.3,
+   "centro": [
+    0.86,
+    172.52,
+    59.89
+   ],
+   "min": [
+    -90.7,
+    70.44,
+    24.66
+   ],
+   "max": [
+    96.63,
+    267.79,
+    98.48
+   ],
+   "ejes_pca": [
+    63.75,
+    46.85,
+    17.26
+   ],
+   "aristas_borde": 66,
+   "aristas_no_manifold": 63,
+   "clase": "panel",
+   "id": "s071",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "f40d4217f66e57026121fbf693a3da1b0f17529d783b41d88b979fb636493cb0"
+  },
+  {
+   "k": 78,
+   "caras": 161,
+   "triangulos": 54,
+   "pct_tri": 33.5,
+   "area_mm2": 2585.8,
+   "centro": [
+    121.07,
+    172.69,
+    48.03
+   ],
+   "min": [
+    111.31,
+    146.83,
+    22.23
+   ],
+   "max": [
+    123.52,
+    198.28,
+    73.43
+   ],
+   "ejes_pca": [
+    15.99,
+    15.73,
+    4.49
+   ],
+   "aristas_borde": 44,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s072",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.84,
+   "sha256": "77954c054656eecfaabaf32d6827a7514177860fa97003125cf06eadcd31f8bb"
+  },
+  {
+   "k": 97,
+   "caras": 13,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 82.7,
+   "centro": [
+    92.55,
+    172.8,
+    28.77
+   ],
+   "min": [
+    89.76,
+    170.01,
+    26.54
+   ],
+   "max": [
+    95.34,
+    175.6,
+    30.37
+   ],
+   "ejes_pca": [
+    2.42,
+    2.42,
+    1.44
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s073",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "9546e00383ff3f9f3e5ecde5ef8a071a5d8196c8248983d4804c0b51ffa22ad4"
+  },
+  {
+   "k": 98,
+   "caras": 13,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 80.0,
+   "centro": [
+    92.57,
+    172.99,
+    64.08
+   ],
+   "min": [
+    89.78,
+    170.19,
+    62.53
+   ],
+   "max": [
+    95.36,
+    175.78,
+    66.34
+   ],
+   "ejes_pca": [
+    2.42,
+    2.42,
+    1.36
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s074",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "c18ec86086b0f1ea39ceec4ecaa2ad272c8d7a71b9e9bd9c250cccf7ff842d1c"
+  },
+  {
+   "k": 90,
+   "caras": 1,
+   "triangulos": 0,
+   "pct_tri": 0.0,
+   "area_mm2": 442.9,
+   "centro": [
+    -114.28,
+    173.03,
+    47.77
+   ],
+   "min": [
+    -114.29,
+    160.08,
+    33.8
+   ],
+   "max": [
+    -114.26,
+    185.35,
+    60.34
+   ],
+   "ejes_pca": [
+    12.72,
+    11.63,
+    0.0
+   ],
+   "aristas_borde": 4,
+   "aristas_no_manifold": 0,
+   "clase": "rueda",
+   "nota": "dentro de la caja de una rueda",
+   "id": "s075",
+   "usar": false,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "577795d4b2080a486712dca5a34ff0aa596b1bec79956f2e8e5c9ed6521c4507"
+  },
+  {
+   "k": 46,
+   "caras": 56,
+   "triangulos": 14,
+   "pct_tri": 25.0,
+   "area_mm2": 298.9,
+   "centro": [
+    -50.99,
+    180.72,
+    125.09
+   ],
+   "min": [
+    -57.97,
+    177.74,
+    122.4
+   ],
+   "max": [
+    -35.66,
+    183.57,
+    129.52
+   ],
+   "ejes_pca": [
+    8.03,
+    2.23,
+    1.74
+   ],
+   "aristas_borde": 12,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s076",
+   "usar": false,
+   "espejo_de": "s077",
+   "dist_espejo_mm": 0.446,
+   "sha256": "bdcd60b922fe36e7e940ef0fae8f6056b49c75d976e52258c7fed96d9157a8ef"
+  },
+  {
+   "k": 83,
+   "caras": 56,
+   "triangulos": 14,
+   "pct_tri": 25.0,
+   "area_mm2": 300.3,
+   "centro": [
+    50.56,
+    180.83,
+    125.03
+   ],
+   "min": [
+    35.31,
+    177.84,
+    122.33
+   ],
+   "max": [
+    57.62,
+    183.67,
+    129.46
+   ],
+   "ejes_pca": [
+    8.04,
+    2.23,
+    1.74
+   ],
+   "aristas_borde": 12,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s077",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.446,
+   "sha256": "dd9ae45f9138e8ad5e74a5d293388bd46e1af870069f58932cd05e5084532d62"
+  },
+  {
+   "k": 38,
+   "caras": 322,
+   "triangulos": 160,
+   "pct_tri": 49.7,
+   "area_mm2": 7456.1,
+   "centro": [
+    -0.26,
+    181.62,
+    101.62
+   ],
+   "min": [
+    -60.76,
+    158.44,
+    67.44
+   ],
+   "max": [
+    60.41,
+    213.75,
+    126.73
+   ],
+   "ejes_pca": [
+    32.39,
+    24.66,
+    7.55
+   ],
+   "aristas_borde": 45,
+   "aristas_no_manifold": 71,
+   "clase": "panel",
+   "id": "s078",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "6b44960bc60fc0fa24cee403763e6e8f08ee41852193f1cde9265b51536ba001"
+  },
+  {
+   "k": 37,
+   "caras": 1120,
+   "triangulos": 280,
+   "pct_tri": 25.0,
+   "area_mm2": 6062.7,
+   "centro": [
+    -61.6,
+    183.63,
+    90.91
+   ],
+   "min": [
+    -82.1,
+    169.1,
+    54.67
+   ],
+   "max": [
+    -38.7,
+    197.18,
+    128.78
+   ],
+   "ejes_pca": [
+    22.33,
+    3.62,
+    3.55
+   ],
+   "aristas_borde": 68,
+   "aristas_no_manifold": 216,
+   "clase": "tubo",
+   "id": "s079",
+   "usar": false,
+   "espejo_de": "s080",
+   "dist_espejo_mm": 0.374,
+   "sha256": "29d362da7fda55ce98b1d204c7b0f40999e3c67f59e9d9e98ec1956712f10feb"
+  },
+  {
+   "k": 73,
+   "caras": 1150,
+   "triangulos": 317,
+   "pct_tri": 27.6,
+   "area_mm2": 6100.8,
+   "centro": [
+    61.27,
+    183.75,
+    90.9
+   ],
+   "min": [
+    38.36,
+    169.19,
+    54.58
+   ],
+   "max": [
+    81.91,
+    197.32,
+    128.73
+   ],
+   "ejes_pca": [
+    22.29,
+    3.63,
+    3.55
+   ],
+   "aristas_borde": 79,
+   "aristas_no_manifold": 239,
+   "clase": "tubo",
+   "id": "s080",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.374,
+   "sha256": "d14e6b6fdcc8850038f173530034862edcca31308eb709fd0f03f0ad0e75ba4f"
+  },
+  {
+   "k": 34,
+   "caras": 24,
+   "triangulos": 2,
+   "pct_tri": 8.3,
+   "area_mm2": 48.0,
+   "centro": [
+    -81.85,
+    187.71,
+    38.86
+   ],
+   "min": [
+    -84.64,
+    185.87,
+    37.46
+   ],
+   "max": [
+    -80.33,
+    190.44,
+    40.26
+   ],
+   "ejes_pca": [
+    1.5,
+    1.43,
+    1.19
+   ],
+   "aristas_borde": 8,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s081",
+   "usar": false,
+   "espejo_de": "s082",
+   "dist_espejo_mm": 0.573,
+   "sha256": "9a666e0a1ce82e6cfec7bb323327724bf222c83a22dd90b44f76b096cbfd91a4"
+  },
+  {
+   "k": 79,
+   "caras": 24,
+   "triangulos": 2,
+   "pct_tri": 8.3,
+   "area_mm2": 48.3,
+   "centro": [
+    81.28,
+    187.76,
+    38.77
+   ],
+   "min": [
+    79.62,
+    185.77,
+    37.36
+   ],
+   "max": [
+    84.18,
+    190.59,
+    40.17
+   ],
+   "ejes_pca": [
+    1.53,
+    1.42,
+    1.19
+   ],
+   "aristas_borde": 8,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s082",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.573,
+   "sha256": "bd913e714a9e18945fda9ffd8b41c8cdf602d7fa00ca09b002e7098755b1d583"
+  },
+  {
+   "k": 82,
+   "caras": 40,
+   "triangulos": 18,
+   "pct_tri": 45.0,
+   "area_mm2": 306.0,
+   "centro": [
+    85.18,
+    188.91,
+    45.59
+   ],
+   "min": [
+    81.14,
+    182.01,
+    38.89
+   ],
+   "max": [
+    90.01,
+    195.7,
+    52.32
+   ],
+   "ejes_pca": [
+    4.4,
+    4.37,
+    2.15
+   ],
+   "aristas_borde": 16,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s083",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.605,
+   "sha256": "14b86b171d468a72c12503ebc2730d8e7293bd17f88e89a9848353c3df6f2b5e"
+  },
+  {
+   "k": 33,
+   "caras": 40,
+   "triangulos": 18,
+   "pct_tri": 45.0,
+   "area_mm2": 309.3,
+   "centro": [
+    -85.66,
+    189.03,
+    45.55
+   ],
+   "min": [
+    -90.47,
+    182.11,
+    38.99
+   ],
+   "max": [
+    -81.34,
+    195.79,
+    52.67
+   ],
+   "ejes_pca": [
+    4.44,
+    4.38,
+    2.17
+   ],
+   "aristas_borde": 16,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s084",
+   "usar": false,
+   "espejo_de": "s083",
+   "dist_espejo_mm": 0.605,
+   "sha256": "62d9c7f2d3153d6f50de3ac80f801724b016b6c2209ae202802ac45e3484f7be"
+  },
+  {
+   "k": 36,
+   "caras": 81,
+   "triangulos": 42,
+   "pct_tri": 51.9,
+   "area_mm2": 151.6,
+   "centro": [
+    -80.08,
+    192.39,
+    58.15
+   ],
+   "min": [
+    -83.11,
+    189.51,
+    55.42
+   ],
+   "max": [
+    -77.03,
+    195.62,
+    60.27
+   ],
+   "ejes_pca": [
+    2.25,
+    2.09,
+    1.84
+   ],
+   "aristas_borde": 2,
+   "aristas_no_manifold": 2,
+   "clase": "panel",
+   "id": "s085",
+   "usar": false,
+   "espejo_de": "s086",
+   "dist_espejo_mm": 0.419,
+   "sha256": "453e7f96d0de73b100ce5cf18aa5b58c2b97f745e6c1bdc1fa076a9f8adb493f"
+  },
+  {
+   "k": 81,
+   "caras": 78,
+   "triangulos": 38,
+   "pct_tri": 48.7,
+   "area_mm2": 145.0,
+   "centro": [
+    79.7,
+    192.54,
+    58.06
+   ],
+   "min": [
+    76.83,
+    189.66,
+    55.33
+   ],
+   "max": [
+    82.67,
+    195.77,
+    60.18
+   ],
+   "ejes_pca": [
+    2.26,
+    2.1,
+    1.84
+   ],
+   "aristas_borde": 5,
+   "aristas_no_manifold": 1,
+   "clase": "panel",
+   "id": "s086",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.419,
+   "sha256": "1858d119dd749dfec0d030e718ed6507f54e7506abcb62cde1f7bbd7776b3988"
+  },
+  {
+   "k": 80,
+   "caras": 114,
+   "triangulos": 16,
+   "pct_tri": 14.0,
+   "area_mm2": 1922.3,
+   "centro": [
+    69.34,
+    197.4,
+    47.81
+   ],
+   "min": [
+    10.38,
+    186.83,
+    42.94
+   ],
+   "max": [
+    85.19,
+    233.46,
+    59.75
+   ],
+   "ejes_pca": [
+    23.37,
+    2.39,
+    2.31
+   ],
+   "aristas_borde": 32,
+   "aristas_no_manifold": 0,
+   "clase": "tubo",
+   "id": "s087",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.43,
+   "sha256": "ca5de6570ce5ac2686e57b8547a021a3867ff3bbee0796565867fe5b8474831d"
+  },
+  {
+   "k": 35,
+   "caras": 112,
+   "triangulos": 13,
+   "pct_tri": 11.6,
+   "area_mm2": 1918.9,
+   "centro": [
+    -69.5,
+    197.45,
+    47.85
+   ],
+   "min": [
+    -85.4,
+    186.67,
+    43.04
+   ],
+   "max": [
+    -10.65,
+    233.44,
+    59.76
+   ],
+   "ejes_pca": [
+    23.48,
+    2.38,
+    2.3
+   ],
+   "aristas_borde": 27,
+   "aristas_no_manifold": 0,
+   "clase": "tubo",
+   "id": "s088",
+   "usar": false,
+   "espejo_de": "s087",
+   "dist_espejo_mm": 0.43,
+   "sha256": "e06aded446f6ec8b3d4bd9e6f0f1cc3c62b2d8c9fec2b173b8078f6ce9aa9de8"
+  },
+  {
+   "k": 39,
+   "caras": 248,
+   "triangulos": 66,
+   "pct_tri": 26.6,
+   "area_mm2": 2015.3,
+   "centro": [
+    -0.47,
+    221.95,
+    74.19
+   ],
+   "min": [
+    -10.37,
+    199.61,
+    66.72
+   ],
+   "max": [
+    9.66,
+    246.5,
+    80.71
+   ],
+   "ejes_pca": [
+    20.42,
+    6.12,
+    4.46
+   ],
+   "aristas_borde": 34,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s089",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "0d26c3a81f03237e306d47f5f6feced14a6c8343222abde1ff1a6b6a4d792bb3"
+  },
+  {
+   "k": 40,
+   "caras": 374,
+   "triangulos": 121,
+   "pct_tri": 32.4,
+   "area_mm2": 12230.4,
+   "centro": [
+    0.07,
+    228.38,
+    112.18
+   ],
+   "min": [
+    -96.55,
+    213.22,
+    72.46
+   ],
+   "max": [
+    95.85,
+    235.71,
+    130.27
+   ],
+   "ejes_pca": [
+    55.98,
+    16.1,
+    2.05
+   ],
+   "aristas_borde": 54,
+   "aristas_no_manifold": 47,
+   "clase": "panel",
+   "id": "s090",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "a36069c0387c620cda403421ee7f58887853e4de1e424b84df23b4398d324630"
+  },
+  {
+   "k": 41,
+   "caras": 84,
+   "triangulos": 20,
+   "pct_tri": 23.8,
+   "area_mm2": 578.6,
+   "centro": [
+    -21.33,
+    229.45,
+    52.13
+   ],
+   "min": [
+    -25.61,
+    218.2,
+    42.27
+   ],
+   "max": [
+    -14.21,
+    241.02,
+    63.82
+   ],
+   "ejes_pca": [
+    6.46,
+    6.38,
+    2.17
+   ],
+   "aristas_borde": 16,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s091",
+   "usar": false,
+   "espejo_de": "s092",
+   "dist_espejo_mm": 0.529,
+   "sha256": "542b73d1b95963a8ebfafe55c8f30b1b0e3fb5287eb204f48c1e887090118ccc"
+  },
+  {
+   "k": 74,
+   "caras": 84,
+   "triangulos": 20,
+   "pct_tri": 23.8,
+   "area_mm2": 577.3,
+   "centro": [
+    20.78,
+    229.48,
+    52.09
+   ],
+   "min": [
+    13.67,
+    218.24,
+    42.26
+   ],
+   "max": [
+    25.09,
+    241.05,
+    63.8
+   ],
+   "ejes_pca": [
+    6.46,
+    6.38,
+    2.18
+   ],
+   "aristas_borde": 16,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s092",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.529,
+   "sha256": "596f2afa119f48377f3d9b0806a842cf3b60a47f565e78e9b58429b7a5e75ea4"
+  },
+  {
+   "k": 42,
+   "caras": 23,
+   "triangulos": 8,
+   "pct_tri": 34.8,
+   "area_mm2": 88.5,
+   "centro": [
+    -15.67,
+    249.41,
+    43.23
+   ],
+   "min": [
+    -18.54,
+    247.29,
+    40.64
+   ],
+   "max": [
+    -11.18,
+    250.62,
+    45.98
+   ],
+   "ejes_pca": [
+    2.92,
+    2.0,
+    1.44
+   ],
+   "aristas_borde": 12,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s093",
+   "usar": false,
+   "espejo_de": "s094",
+   "dist_espejo_mm": 0.622,
+   "sha256": "075f9f57f1f1af4de909ab15f0ffac072f2fe6c7c27cf6aad0bc934105844709"
+  },
+  {
+   "k": 75,
+   "caras": 25,
+   "triangulos": 12,
+   "pct_tri": 48.0,
+   "area_mm2": 88.1,
+   "centro": [
+    15.0,
+    249.44,
+    43.34
+   ],
+   "min": [
+    10.61,
+    247.31,
+    40.62
+   ],
+   "max": [
+    17.71,
+    250.64,
+    45.96
+   ],
+   "ejes_pca": [
+    2.85,
+    2.05,
+    1.44
+   ],
+   "aristas_borde": 12,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s094",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.622,
+   "sha256": "2bd9773fa61066e19553d97c7147313d1e0bc84831456157b0a0b85788c2ae72"
+  },
+  {
+   "k": 45,
+   "caras": 28,
+   "triangulos": 8,
+   "pct_tri": 28.6,
+   "area_mm2": 107.3,
+   "centro": [
+    -26.82,
+    257.43,
+    86.56
+   ],
+   "min": [
+    -31.95,
+    252.6,
+    84.22
+   ],
+   "max": [
+    -21.82,
+    260.96,
+    89.02
+   ],
+   "ejes_pca": [
+    4.32,
+    1.56,
+    1.18
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s095",
+   "usar": false,
+   "espejo_de": "s096",
+   "dist_espejo_mm": 0.595,
+   "sha256": "1b763ec65bd2c87ab5ac035a05fe8ee0833b0453dd29bafc00891d4da9768f89"
+  },
+  {
+   "k": 77,
+   "caras": 27,
+   "triangulos": 6,
+   "pct_tri": 22.2,
+   "area_mm2": 107.7,
+   "centro": [
+    26.15,
+    257.48,
+    86.53
+   ],
+   "min": [
+    21.27,
+    252.66,
+    84.19
+   ],
+   "max": [
+    31.17,
+    261.0,
+    88.99
+   ],
+   "ejes_pca": [
+    4.33,
+    1.56,
+    1.19
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s096",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.595,
+   "sha256": "08cf9fb5ce4b249eb28e4d3855645d5308c4c0d2ef6fad19a652c8242a705df0"
+  },
+  {
+   "k": 44,
+   "caras": 27,
+   "triangulos": 6,
+   "pct_tri": 22.2,
+   "area_mm2": 109.6,
+   "centro": [
+    -24.27,
+    260.37,
+    81.33
+   ],
+   "min": [
+    -29.42,
+    255.61,
+    79.13
+   ],
+   "max": [
+    -19.03,
+    263.72,
+    83.68
+   ],
+   "ejes_pca": [
+    4.45,
+    1.49,
+    1.22
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s097",
+   "usar": false,
+   "espejo_de": "s098",
+   "dist_espejo_mm": 0.62,
+   "sha256": "f1425691302b0bdcb146f682ae743a6ac644d3073391226c7496da68dccf893b"
+  },
+  {
+   "k": 76,
+   "caras": 25,
+   "triangulos": 2,
+   "pct_tri": 8.0,
+   "area_mm2": 108.7,
+   "centro": [
+    23.6,
+    260.41,
+    81.29
+   ],
+   "min": [
+    18.48,
+    255.67,
+    79.1
+   ],
+   "max": [
+    28.63,
+    263.76,
+    83.65
+   ],
+   "ejes_pca": [
+    4.41,
+    1.49,
+    1.23
+   ],
+   "aristas_borde": 10,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s098",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": 0.62,
+   "sha256": "1f304737c303e7d3db11913c2e72654cd74db27cc925f43302852b1ad2f5125d"
+  },
+  {
+   "k": 43,
+   "caras": 170,
+   "triangulos": 24,
+   "pct_tri": 14.1,
+   "area_mm2": 326.3,
+   "centro": [
+    -0.37,
+    264.09,
+    52.37
+   ],
+   "min": [
+    -8.4,
+    259.73,
+    42.86
+   ],
+   "max": [
+    7.57,
+    267.19,
+    60.83
+   ],
+   "ejes_pca": [
+    6.57,
+    4.82,
+    0.54
+   ],
+   "aristas_borde": 24,
+   "aristas_no_manifold": 0,
+   "clase": "panel",
+   "id": "s099",
+   "usar": true,
+   "espejo_de": null,
+   "dist_espejo_mm": null,
+   "sha256": "a6d79a6d70a3a8167b5cf953dfa3abf1098df95509fe54f56e988c98ac8cd703"
+  }
+ ]
+}
